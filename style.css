@@ -1,0 +1,84 @@
+body {
+    background-color: slategray;
+    background-image: url(https://newevolutiondesigns.com/images/freebies/red-wallpaper-15.jpg);
+}
+#wrapper {
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    border: 5px solid maroon;
+    padding: 10px;
+    font-size: 30px;
+    max-width: 1000px;
+}
+#startQuiz {
+    background-color: maroon;
+    margin: 50px;
+    font-size: 40px;
+}
+#para {
+    font-size: 20px;
+}
+#questions {
+    margin: 20px;
+}
+#timeEl {
+    float: right;
+}
+li {
+    background-color: maroon;
+    margin-top: 10px;
+    font-size: 20px;
+    color: white;
+    
+}
+h1 {
+    text-align: center;
+}
+input {
+    margin: 30px;
+    border: 1px solid maroon;
+}
+label {
+    margin-right: 10px;
+}
+#back {
+    background-color: slategray;
+    position: relative;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+#clear {
+    background-color: slategray;
+    position: relative;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+button {
+    border-radius: 5px;
+}
+textarea {
+    width: 90%;
+    margin: 20px;
+}
+#divEl {
+    margin: 20px;
+    border: 1px solid maroon;
+}
+#high {
+    border: 2px solid maroon;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    padding: 5px;
+}
+#submit {
+    background-color: slategray;
+    position: relative;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
