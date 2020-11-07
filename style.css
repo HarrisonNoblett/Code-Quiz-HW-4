@@ -38,7 +38,7 @@ h1 {
 }
 input {
     margin: 30px;
-    border: 1px solid maroon;
+    border: 5px solid maroon;
 }
 label {
     margin-right: 10px;
@@ -81,4 +81,8 @@ textarea {
     font-size: 20px;
     color: white;
     text-align: center;
+}
+#divEl {
+    text-align: center;
+    border: 5px solid maroon;
 }
