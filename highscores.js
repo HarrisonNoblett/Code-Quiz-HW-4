@@ -4,7 +4,6 @@ var back = document.querySelector("#back");
 
 clear.addEventListener("click", function() {
     localStorage.clear();
-    localStorage.reload();
 });
 
 var allScores = localStorage.getItem("allScores");
