@@ -1,21 +1,21 @@
 body {
     background-color: slategray;
-    background-image: url(https://newevolutiondesigns.com/images/freebies/red-wallpaper-15.jpg);
+    background-image: url(https://cdn.wallpaperdirect.com/asset/img/product/143779/tiled/albany-grass-navy-blue-wallpaper-tiled-143779.jpg);
 }
-#wrapper {
+.container {
     margin: auto;
     text-align: center;
     color: white;
     font-family: 'Oswald', sans-serif;
-    border: 5px solid maroon;
-    padding: 10px;
+    background-color: blue;
+    padding: 20px;
     font-size: 30px;
     max-width: 1000px;
 }
 #startQuiz {
-    background-color: maroon;
+    background-color: blue;
     margin: 50px;
-    font-size: 40px;
+    font-size: 50px;
 }
 #para {
     font-size: 20px;
@@ -27,7 +27,7 @@ body {
     float: right;
 }
 li {
-    background-color: maroon;
+    background-color: blue;
     margin-top: 10px;
     font-size: 20px;
     color: white;
@@ -38,7 +38,7 @@ h1 {
 }
 input {
     margin: 30px;
-    border: 5px solid maroon;
+    border: 5px solid blue;
 }
 label {
     margin-right: 10px;
@@ -66,10 +66,10 @@ textarea {
 }
 #divEl {
     margin: 20px;
-    border: 1px solid maroon;
+    border: 1px solid blue;
 }
 #high {
-    border: 2px solid maroon;
+    border: 2px solid blue;
     color: white;
     font-family: 'Oswald', sans-serif;
     font-size: 30px;
